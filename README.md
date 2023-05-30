@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nurhakcakir
-- 👀 I’m interested in Cyber Security and Java Development
-- 🌱 I’m currently learning Server and Computer Penetration Testing or Java Programming and Android Programming
+- 👀 I’m interested in Artificial Intelligence, Deep Learning and Data Science:)
 - 💞️ I’m looking to collaborate on Remote Work
 - 📫 How to reach me nurhaksaidcakir@gmail.com
 
