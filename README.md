@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nurhakcakir
 - 👀 I’m interested in Artificial Intelligence and Data Science:)
 - 📫 How to reach me nurhaksaidcakir@gmail.com
+- 📫 My LinkedIn account https://www.linkedin.com/in/nurhak-cakir/
 
 <!---
 nurhakcakir/nurhakcakir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
