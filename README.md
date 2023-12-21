@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nurhakcakir
-- 👀 I’m interested in Artificial Intelligence, Deep Learning and Data Science:)
-- 💞️ I’m looking to collaborate on Remote Work
+- 👀 I’m interested in Artificial Intelligence and Data Science:)
 - 📫 How to reach me nurhaksaidcakir@gmail.com
 
 <!---
