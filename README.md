@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nurhakcakir
-- 👀 I’m interested in Artificial Intelligence and Data Science:)
+- 👀 I’m interested in Artificial Intelligence Data Science and Java:)
 - 📫 How to reach me nurhaksaidcakir@gmail.com
 - 📫 My LinkedIn account https://www.linkedin.com/in/nurhak-cakir/
 - 👀 For my Articles and More My Medium account https://medium.com/@nurhaksaidcakir
