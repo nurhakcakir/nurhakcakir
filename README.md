@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nurhakcakir
-- 👀 I’m interested in Data Science, Flutter and Java:)
+- 👀 I’m interested in Micro Controllers and Microprocessors, Kotlin and Java:)
 - 📫 How to reach me nurhaksaidcakir@gmail.com
 - 📫 My LinkedIn account https://www.linkedin.com/in/nurhak-cakir/
 - 👀 For my Articles and More My Medium account https://medium.com/@nurhaksaidcakir
